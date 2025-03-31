@@ -5,8 +5,11 @@ An interactive 3D Earth globe visualization built with Three.js.
 ## Features
 
 - Realistic Earth globe with texture mapping
+- Terrain elevation using displacement mapping
+- Progressive loading of high-resolution elevation data
 - Cloud layer with slow rotation
 - Starry background
+- Level of Detail (LOD) for performance optimization
 - Interactive controls:
   - Left-click and drag to rotate the globe
   - Mouse wheel to zoom in and out
